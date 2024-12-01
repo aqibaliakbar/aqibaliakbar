@@ -62,15 +62,43 @@
 
 ## 📈 GitHub Analytics
 
+
+<!-- Activity Graph -->
+
+<!-- Activity Graph -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aqibaliakbar&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide_title=true" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=aqibaliakbar&hide_border=true&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img width="100%" height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=aqibaliakbar&bg_color=000000&color=ffffff&line=ffffff&point=333333&area=true&hide_border=true" />
 </div>
-
 <br/>
+<!-- Main Stats with Streak -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aqibaliakbar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=aqibaliakbar&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" width="47%"/>
+</p>
+<!-- Contribution Details -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqibaliakbar&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" width="31%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqibaliakbar&theme=github_dark&utcOffset=5" width="31%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqibaliakbar&theme=github_dark" width="31%"/>
+</p>
+<!-- Detailed Profile Summary -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqibaliakbar&theme=github_dark" width="98%"/>
+</p>
+<!-- Trophies -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aqibaliakbar&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
+</p>
+<!-- Additional Stats -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqibaliakbar&theme=github_dark" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqibaliakbar&theme=github_dark" width="47%"/>
+</p>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aqibaliakbar&bg_color=000000&color=ffffff&line=ffffff&point=333333&area=true&hide_border=true" />
 </div>
 
 ## 🎯 Professional Journey
