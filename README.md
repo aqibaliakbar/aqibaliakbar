@@ -84,20 +84,6 @@
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqibaliakbar&theme=github_dark" width="31%"/>
 </p>
-<!-- Detailed Profile Summary -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqibaliakbar&theme=github_dark" width="98%"/>
-</p>
-<!-- Trophies -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aqibaliakbar&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" width="98%"/>
-</p>
-<!-- Additional Stats -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqibaliakbar&theme=github_dark" width="47%"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqibaliakbar&theme=github_dark" width="47%"/>
-</p>
 
 </div>
 
