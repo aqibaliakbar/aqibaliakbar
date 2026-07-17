@@ -26,14 +26,14 @@ Selected SaaS and enterprise products built as a full-stack/freelance engineer. 
 | ChatBuddy | AI chatbot SaaS — chatbot builder plus knowledge-base ingestion from PDFs and links | React, Node.js |
 | Prediict | AI-powered SEO analytics SaaS — integrates Google Search Console with GPT-3.5 for optimization insights | React, Vite |
 | AI Storybook Platform | AI-powered children's storybook generator — genre selection, interactive viewer, PDF export | React |
-| ViralHook | B2B SaaS influencer platform | — |
-| Bloomkare | Organic beauty & skincare e-commerce platform | — |
-| Ecora | POS & restaurant management system | — |
-| Be Fused | Employee productivity tool | — |
-| Kenro | Real estate platform | — |
-| RaiseUp | Career guidance platform | — |
-| Sofa Deal | E-commerce platform | — |
-| DeepInsight | AI-powered PTE exam scoring platform | — |
+| ViralHook | B2B SaaS influencer platform | Vue.js, Nuxt.js, AG-Grid, PrimeVue |
+| Bloomkare | Organic beauty & skincare e-commerce platform | WeWeb, Vue.js, Nuxt.js, AG-Grid, PrimeVue |
+| Ecora | POS & restaurant management system | React, Material UI |
+| Be Fused | Employee productivity tool | Next.js, TypeScript, Stripe |
+| Kenro | Real estate platform | Next.js, TypeScript, Tailwind CSS |
+| RaiseUp | Career guidance platform | Next.js, TypeScript, Tailwind CSS |
+| Sofa Deal | E-commerce platform | Next.js, TypeScript, Tailwind CSS |
+| DeepInsight | AI-powered PTE exam scoring platform | React, Speechace API |
 
 ## Open Source / Public Code
 
