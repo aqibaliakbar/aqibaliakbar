@@ -1,98 +1,64 @@
 <div align="center">
-  
+
 # Aqib Ali Akbar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Development+Specialist+at+Sohomax;React+%7C+Next.js+%7C+Vue+%7C+TypeScript;15%2B+B2B+SaaS+%26+Enterprise+Products+Shipped;AI-Integrated+Web+%26+Mobile+Products)](https://git.io/typing-svg)
+### Frontend Development Specialist @ Sohomax · React · Next.js · Vue · TypeScript
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
-
-<br/>
-
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://aqibaliakbar.netlify.app)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aqib-ali-akbar-3a1b8a164/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aqibaliakbar@gmail.com)
+[Portfolio](https://aqibaliakbar.netlify.app) · [LinkedIn](https://www.linkedin.com/in/aqib-ali-akbar-3a1b8a164/) · [Email](mailto:aqibaliakbar@gmail.com) · Lahore, Pakistan
 
 </div>
 
 ## About
 
-Full-stack Frontend Engineer with 2.5+ years across React/Next.js and Vue/Nuxt, plus 4 years of parallel freelance work delivering 15+ B2B SaaS and enterprise products. Currently a **Frontend Development Specialist at Sohomax** (Seoul, remote), with prior full-time roles at Texagon and Envisionary Tech.
+Full-stack Frontend Engineer with 2.5+ years across React/Next.js and Vue/Nuxt, plus 4 years of parallel freelance work delivering 15+ B2B SaaS and enterprise products. Currently a Frontend Development Specialist at Sohomax (Seoul, remote), with prior full-time roles at Texagon and Envisionary Tech.
 
-- 🔭 Currently building with Vue.js / PrimeVue at Sohomax
-- 🤖 Specialize in AI-integrated products — voice agents, chatbots, document generation, content automation
-- 🎓 BS Computer Science candidate, Virtual University of Pakistan
-- 📫 [aqibaliakbar@gmail.com](mailto:aqibaliakbar@gmail.com) · open to full-time roles and select freelance/contract work
+Focus areas: AI-integrated products — voice agents, chatbots, document generation, content automation. Open to full-time roles and select freelance/contract work.
 
 ## Client & Product Work
 
-Selected SaaS/enterprise products I've built the frontend for as a full-stack/freelance engineer:
+Selected SaaS and enterprise products built as a full-stack/freelance engineer. Most of this work lives in private client repositories.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Operator AI** | SaaS platform for creating AI-powered voice agents — built a 4-step agent creation wizard | Next.js, TypeScript, Tailwind CSS |
-| **AuditionRooms** | Virtual audition platform — monologue selection, teleprompter-guided recording with camera controls, video upload | React |
-| **WonderfulSky** | AI document/article generator — processes PDF, DOCX, PPT files to generate reports for enterprise users | React, Tailwind, shadcn/ui |
-| **ChatBuddy** | AI chatbot SaaS — chatbot builder plus knowledge-base ingestion from PDFs and links | React, Node.js |
-| **Prediict** | AI-powered SEO analytics SaaS — integrates Google Search Console with GPT-3.5 for optimization insights | React, Vite |
-| **AI Storybook Platform** | AI-powered children's storybook generator — genre selection, interactive viewer, PDF export | React.js |
-
-**Also delivered:** ViralHook (B2B SaaS influencer platform) · Bloomkare (organic beauty & skincare e-commerce) · Ecora (POS & restaurant management) · Be Fused (employee productivity tool) · Kenro (real estate platform) · RaiseUp (career guidance platform) · Sofa Deal (e-commerce) · DeepInsight (AI PTE exam scoring)
+| Operator AI | SaaS platform for creating AI-powered voice agents — built a 4-step agent creation wizard | Next.js, TypeScript, Tailwind CSS |
+| AuditionRooms | Virtual audition platform — monologue selection, teleprompter-guided recording with camera controls, video upload | React |
+| WonderfulSky | AI document/article generator — processes PDF, DOCX, PPT files to generate reports for enterprise users | React, Tailwind, shadcn/ui |
+| ChatBuddy | AI chatbot SaaS — chatbot builder plus knowledge-base ingestion from PDFs and links | React, Node.js |
+| Prediict | AI-powered SEO analytics SaaS — integrates Google Search Console with GPT-3.5 for optimization insights | React, Vite |
+| AI Storybook Platform | AI-powered children's storybook generator — genre selection, interactive viewer, PDF export | React |
+| ViralHook | B2B SaaS influencer platform | — |
+| Bloomkare | Organic beauty & skincare e-commerce platform | — |
+| Ecora | POS & restaurant management system | — |
+| Be Fused | Employee productivity tool | — |
+| Kenro | Real estate platform | — |
+| RaiseUp | Career guidance platform | — |
+| Sofa Deal | E-commerce platform | — |
+| DeepInsight | AI-powered PTE exam scoring platform | — |
 
 ## Open Source / Public Code
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Reforge**](https://github.com/aqibaliakbar/reforge) | Turns any YouTube video into 5 high-performing LinkedIn posts using AI | TypeScript, Next.js, LLM APIs |
-| [**PillPal**](https://github.com/aqibaliakbar/pillpal---react-native) | React Native app for medication reminders and adherence tracking | React Native, TypeScript |
-| [**AI Chatbot**](https://github.com/aqibaliakbar/AI-Chatbot--OpenAI--Node--Express--Supabase--Reactjs--ShadCn-) | Conversational AI chatbot with persisted chat history | OpenAI API, Node.js, Express, Supabase, React, shadcn/ui |
-| [**MERN Video Interview Platform**](https://github.com/aqibaliakbar/mern--video-interview-platform) | Real-time video interviewing platform | MongoDB, Express, React, Node.js |
-| [**Prism**](https://github.com/aqibaliakbar/prism-saas-instagram-automation-application) | SaaS platform for automating Instagram content workflows | TypeScript |
-| [**Aurelio**](https://github.com/aqibaliakbar/aurelio-wp-theme) | Custom WordPress theme built from a client design spec | PHP, WordPress |
+| [Reforge](https://github.com/aqibaliakbar/reforge) | Turns any YouTube video into 5 high-performing LinkedIn posts using AI | TypeScript, Next.js, LLM APIs |
+| [PillPal](https://github.com/aqibaliakbar/pillpal---react-native) | React Native app for medication reminders and adherence tracking | React Native, TypeScript |
+| [AI Chatbot](https://github.com/aqibaliakbar/AI-Chatbot--OpenAI--Node--Express--Supabase--Reactjs--ShadCn-) | Conversational AI chatbot with persisted chat history | OpenAI API, Node.js, Express, Supabase, React, shadcn/ui |
 
 ## Experience
 
-```typescript
-const experience = {
-  current: {
-    title: "Frontend Development Specialist",
-    company: "Sohomax",
-    period: "Jul 2025 – Present",
-    location: "Seoul, South Korea (Remote)",
-    stack: ["Vue.js", "PrimeVue"]
-  },
-  parallel: {
-    title: "Freelance Full-Stack Engineer",
-    company: "Self-employed",
-    period: "Aug 2022 – Present",
-    focus: "15+ B2B SaaS & enterprise products delivered for clients"
-  },
-  previous: [
-    {
-      title: "Frontend Engineer",
-      company: "Texagon",
-      period: "Apr 2024 – Jun 2025",
-      location: "Dover, DE, USA (Remote)",
-      stack: ["React", "JavaScript"]
-    },
-    {
-      title: "Frontend Developer",
-      company: "Envisionary Tech",
-      period: "May 2023 – Mar 2024",
-      stack: ["React", "Material UI"],
-      focus: "Reusable React components, Figma-to-production UI"
-    },
-    {
-      title: "Web Developer",
-      company: "Freelancer.com",
-      period: "Apr 2022"
-    }
-  ],
-  education: [
-    { degree: "BS Computer Science", school: "Virtual University of Pakistan", period: "2024 – 2026" },
-    { degree: "MBA", school: "University of Central Punjab", period: "2019 – 2021" }
-  ]
-};
-```
+| Role | Company | Period | Location |
+|---|---|---|---|
+| Frontend Development Specialist | Sohomax | Jul 2025 – Present | Seoul, South Korea (Remote) |
+| Freelance Full-Stack Engineer | Self-employed | Aug 2022 – Present | Remote |
+| Frontend Engineer | Texagon | Apr 2024 – Jun 2025 | Dover, DE, USA (Remote) |
+| Frontend Developer | Envisionary Tech | May 2023 – Mar 2024 | Remote |
+| Web Developer | Freelancer.com | Apr 2022 | Remote |
+
+**Education**
+
+| Degree | School | Period |
+|---|---|---|
+| BS Computer Science | Virtual University of Pakistan | 2024 – 2026 |
+| MBA | University of Central Punjab | 2019 – 2021 |
 
 ## Tech Stack
 
@@ -141,28 +107,6 @@ const experience = {
 
 </div>
 
-## GitHub Activity
+## Contact
 
-<div align="center">
-  <img width="100%" height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=aqibaliakbar&bg_color=000000&color=ffffff&line=ffffff&point=333333&area=true&hide_border=true" />
-</div>
-<br/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aqibaliakbar&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&rank_icon=github" width="47%"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=aqibaliakbar&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" width="47%"/>
-</p>
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aqib-ali-akbar-3a1b8a164/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=about.me)](https://aqibaliakbar.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aqibaliakbar@gmail.com)
-
-📍 Lahore, Pakistan
-
-<img src="https://komarev.com/ghpvc/?username=aqibaliakbar&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
-
-</div>
+[Portfolio](https://aqibaliakbar.netlify.app) · [LinkedIn](https://www.linkedin.com/in/aqib-ali-akbar-3a1b8a164/) · [aqibaliakbar@gmail.com](mailto:aqibaliakbar@gmail.com)
