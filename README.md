@@ -38,8 +38,6 @@ Selected SaaS/enterprise products I've built the frontend for as a full-stack/fr
 
 **Also delivered:** ViralHook (B2B SaaS influencer platform) · Bloomkare (organic beauty & skincare e-commerce) · Ecora (POS & restaurant management) · Be Fused (employee productivity tool) · Kenro (real estate platform) · RaiseUp (career guidance platform) · Sofa Deal (e-commerce) · DeepInsight (AI PTE exam scoring)
 
-*(Most client work lives in private repos — case studies above are written from memory, so double-check the details before publishing.)*
-
 ## Open Source / Public Code
 
 | Project | What it does | Stack |
