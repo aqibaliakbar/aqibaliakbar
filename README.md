@@ -21,10 +21,10 @@ Selected SaaS and enterprise products built as a full-stack/freelance engineer. 
 | Project | What it does | Stack |
 |---|---|---|
 | Operator AI | SaaS platform for creating AI-powered voice agents — built a 4-step agent creation wizard | Next.js, TypeScript, Tailwind CSS |
-| AuditionRooms | Virtual audition platform — monologue selection, teleprompter-guided recording with camera controls, video upload | React |
+| AuditionRooms | Virtual audition platform — monologue selection, teleprompter-guided recording with camera controls, video upload | React, Tailwind, shadcn/ui |
 | WonderfulSky | AI document/article generator — processes PDF, DOCX, PPT files to generate reports for enterprise users | React, Tailwind, shadcn/ui |
-| ChatBuddy | AI chatbot SaaS — chatbot builder plus knowledge-base ingestion from PDFs and links | React, Node.js |
-| Prediict | AI-powered SEO analytics SaaS — integrates Google Search Console with GPT-3.5 for optimization insights | React, Vite |
+| ChatBuddy | AI chatbot SaaS — chatbot builder plus knowledge-base ingestion from PDFs and links | React, Tailwind, shadcn/ui |
+| Prediict | AI-powered SEO analytics SaaS — integrates Google Search Console with GPT-3.5 for optimization insights | React, Tailwind, headless ui |
 | AI Storybook Platform | AI-powered children's storybook generator — genre selection, interactive viewer, PDF export | React |
 | ViralHook | B2B SaaS influencer platform | Vue.js, Nuxt.js, AG-Grid, PrimeVue |
 | Bloomkare | Organic beauty & skincare e-commerce platform | WeWeb, Vue.js, Nuxt.js, AG-Grid, PrimeVue |
